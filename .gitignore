@@ -1,2 +1,8 @@
 *.csv
 *.txt
+*.zip
+.vscode
+starter/
+__pycache__/
+old_html/
+*.db
